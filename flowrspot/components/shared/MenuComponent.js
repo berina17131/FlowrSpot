@@ -45,5 +45,4 @@ const styles = StyleSheet.create({
         height: (sh(29) * vh),
         width: (sw(29) * vw)
     }
-
 });

@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, View, ActivityIndicator, FlatList, Keyboard, Alert} from 'react-native';
+import {StyleSheet, View, FlatList, Keyboard, Alert} from 'react-native';
 
 import FlowerCard from "../flower/FlowerCard";
 import HomePanel from "./HomePanel";
